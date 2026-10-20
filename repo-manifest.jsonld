@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.apt/commit/3a525a7316b995832f02541713e014f28b62817d",
       "git:hexsha": "3a525a7316b995832f02541713e014f28b62817d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.apt/commit/c41d04eaf80af77d2c3ca2161b49c22ce130ef33",
